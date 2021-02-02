@@ -1,0 +1,20 @@
+Podemos utilizar o  touch para criar os arquivos tambem, alem do echo > arquivo.tal
+
+
+No CSS
+.nome{}
+
+Seleciona elementos por class
+
+KeyCodes ( cada tecla tem a sua numeracao, otima para ser utilizado em algun recurso que ira adicionar um evento
+
+parte 4-
+
+
+ate  o momento fizemos um html, vinculamos o Style(CSS) e o Script (JS)
+ 
+No CSS fizemos um quadrado verde e deixamos na posicao que gostariamos
+
+No JS, criamos funcoes e variaveis, uma com o endereco do dino(img) e outras funcoes para o pulo e a posicao.
+
+-parte 4 2:58
