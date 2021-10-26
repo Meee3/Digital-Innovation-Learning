@@ -1,8 +1,18 @@
-# Hello People!
+### Hello People!
 
-This repository is for linking the activities of 'Digital One'
+- Recriando a página do instagram
 
-Thank you,
+	Tive a oportunidade de brincar com html, css
 
+- Recriando o famoso jogo do dino
 
-Obrigado a Digital Innovation pela oportunidade de aprendizado!
+	Desta vez a oportunidade foi utilizar JS!
+
+- API de cidades do Brasil
+
+	Neste caso optei em fazer diferente utilizar Driver do Mysql, contudo, entretanto, todaviiiaaa, estou fazendo ainda...
+	
+	
+	
+	
+	##### # Obrigado pelo conhecimento Digital Innovation!
