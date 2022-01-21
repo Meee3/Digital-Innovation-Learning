@@ -1,4 +1,4 @@
-				 ### Salve Clan!
+				### Salve Clan!
 
 - Recriando a página do instagram
 
@@ -27,6 +27,7 @@
 	
 	
  - Criando um APP Simples de cadastro de séries em .NET
+ 
 	Em Desenvolvimento
 	
 (Correndo atrás do tempo aqui...logo mais terminarei os projetos, Abraçosss)
